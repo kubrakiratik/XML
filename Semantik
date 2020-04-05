@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <book>
+        <id>01</id>
+        <title>Şeker Portakalı </title>
+        <author>SJose Mauro De Vasconcelos</author>
+        <publisher> Can Yayınları </publisher>
+        <isbn>9750738609</isbn>
+        <date>2019</date>
+        <price>15.27</price>
+        <language>Türkçe</language>
+<url>https://www.kitapyurdu.com/kitap/cocuk-kitaplari/10139.html</url>
+    </book>
+    <book>
+        <id>02</id>
+        <title>Fabrika Ayarı</title>
+        <author>Hayati İnanç , Bekir Develi</author>
+        <publisher>Profil Kitap</publisher>
+        <isbn>6057525826</isbn>
+        <date>2020</date>
+        <price>15</price>
+        <language>Türkçe</language>
+<url>https://www.kitapyurdu.com/kitap/fabrika-ayari/528784.html&manufacturer_id=174126</url>
+    </book>
+    <book>
+        <id>03</id>
+        <title>Körlük</title>
+        <author>Jose Saramago</author>
+        <publisher>Kırmızı Kedi Yayınevi</publisher>
+        <isbn>6052980811</isbn>
+        <date>2019</date>
+        <price>21</price>
+        <language>Türkçe </language>
+<url>https://www.kitapyurdu.com/kitap/korluk/426526.html</url>
+    </book>
+    <book>
+        <id>04</id>
+        <title>Hayvan Çiftliği</title>
+        <author>George Orwell </author>
+        <publisher>Can Yayınları</publisher>
+        <isbn>9750719387</isbn>
+        <date>2019</date>
+        <price>13</price>
+        <language> Türkçe </language>
+<url>https://www.kitapyurdu.com/kitap/hayvan-ciftligi-ciltsiz/30574.html</url>
+    </book>
+    <book>
+        <id>05</id>
+        <title>Momo</title>
+        <author>Michael Ende</author>
+        <publisher>Pegasus Yayınları</publisher>
+        <isbn> 6052993019</isbn>
+        <date>2017</date>
+        <price>14.99</price>
+        <language>Türkçe</language>
+<url>https://www.kitapyurdu.com/kitap/momo/434330.html</url>
+    </book>
+    <book>
+        <id>06</id>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <publisher>Can Yayınları</publisher>
+        <isbn>9750718533</isbn>
+        <date>2019</date>
+        <price>22</price>
+        <language> Türkçe </language>
+<url>https://www.kitapyurdu.com/kitap/1984/13506.html</url>
+    </book>
+    <book>
+        <id>07</id>
+        <title>Otomatik Portakal</title>
+        <author>Anthony Burgess</author>
+        <publisher>Türkiye İş Bankası Kültür Yayınları</publisher>
+        <isbn>	6052957929</isbn>
+        <date>2019</date>
+        <price>10.38</price>
+        <language> Türkçe</language>
+<url>https://www.kitapyurdu.com/kitap/otomatik-portakal-ciltsiz/51855.html</url>
+    </book>
+    <book>
+        <id>08</id>
+        <title>Yabancı</title>
+        <author>Albert Camus</author>
+        <publisher>Can Yayıncılık</publisher>
+        <isbn>9750741272</isbn>
+        <date>2019</date>
+        <price>10.22</price>
+        <language> Türkçe </language>
+ <url>https://www.kitapyurdu.com/kitap/yabanci/10216.html</url>
+    </book>
+    <book>
+        <id>09</id>
+        <title>Cesur Yeni Dünya </title>
+        <author>Aldous Huxleyt</author>
+        <publisher> İthaki Yayınları</publisher>
+        <isbn>	9756902165</isbn>
+        <date>2019</date>
+        <price>15</price>
+        <language> Türkçe </language>
+    <url>https://www.kitapyurdu.com/kitap/cesur-yeni-dunya/21087.html</url>
+    </book>
+    <book>
+        <id>10</id>
+        <title>Bir İdam Mahkumunun Son Günü</title>
+        <author>Victor Hugo</author>
+        <publisher>Türkiye İş Bankası Kültür Yayınları</publisher>
+        <isbn> 	6053609902</isbn>
+        <date>2019</date>
+        <price>6.49</price>
+        <language> Türkçe </language>
+     <url>https://www.kitapyurdu.com/kitap/bir-idam-mahkumunun-son-gunu-karton-kapak/323224.html</url>
+    </book>
+    <book>
+        <id>11</id>
+        <title>Pal Sokağı Çocukları</title>
+        <author>Ferenc Molnar</author>
+        <publisher>Yapı Kredi Yayınları</publisher>
+        <isbn>	9750815546</isbn>
+        <date>2019</date>
+        <price>10.70</price>
+        <language> Türkçe </language>
+     <url>https://www.kitapyurdu.com/kitap/pal-sokagi-cocuklari/125370.html</url>
+    </book>
+    <book>
+        <id>12</id>
+        <title>Tutunamayanlar</title>
+        <author>Oğuz Atay</author>
+        <publisher>
+        iletişim Yayınları</publisher>
+        <isbn>9754700114</isbn>
+        <date>2019</date>
+        <price>37.80</price>
+        <language> Türkçe </language>
+<url>https://www.kitapyurdu.com/kitap/tutunamayanlar--butun-eserleri-1/18252.html</url>
+    </book>
+    <book>
+        <id>13</id>
+        <title>Nar Ağacı</title>
+        <author>Nazan Bekiroğlu</author>
+        <publisher>Timaş Yayınları</publisher>
+        <isbn>6050807073</isbn>
+        <date>2016</date>
+        <price>25.03</price>
+        <language> Türkçe </language>
+ <url>https://www.kitapyurdu.com/kitap/nar-agaci/282405.html</url>
+    </book>
+    <book>
+        <id>14</id>
+        <title>Okumak, Yazmak ve Yaşamak Üzerine</title>
+        <author>Arthur Schopenhauer</author>
+        <publisher> Say Yayınları</publisher>
+        <isbn> 9789754687002</isbn>
+        <date>2016</date>
+        <price>10.50</price>
+        <language> Türkçe </language>
+ <url>https://www.idefix.com/Kitap/Okumak-Yazmak-Ve-Yasamak-Uzerine/Felsefe/Felsefe-Bilimi/urunno=0000000249643</url>
+    </book>
+    <book>
+        <id>15</id>
+        <title>Var Olma Eğilimi</title>
+        <author>Emil Michel Cioran</author>
+        <publisher>Metis Yayıncılık</publisher>
+        <isbn> 9786053160304</isbn>
+        <date>2016</date>
+        <price>17.50</price>
+        <language> Türkçe </language>
+        <url>https://www.idefix.com/Kitap/Var-Olma-Egilimi/Emil-Michel-Cioran/Felsefe/Felsefe-Bilimi/urunno=0000000683735</url>
+    </book>
+    <book>
+        <id>16</id>
+        <title>Bülbülü Öldürmek</title>
+        <author>Harper Lee</author>
+        <publisher>Epsilon Yayınevi</publisher>
+        <isbn>6051736938</isbn>
+        <date>2020</date>
+        <price>27.30</price>
+        <language> Türkçe</language>
+<url>https://www.kitapyurdu.com/kitap/bulbulu-oldurmek/533797.html</url>
+    </book>
+    <book>
+        <id>17</id>
+        <title>İnsan Nedir?</title>
+        <author>Mark Twain</author>
+        <publisher>Dedalus Kitap</publisher>
+        <isbn>6059203043</isbn>
+        <date>2020</date>
+        <price>10.80</price>
+        <language> Türkçe </language>
+ <url>https://www.kitapyurdu.com/kitap/insan-nedir/378092.html</url>
+    </book>
+    <book>
+        <id>18</id>
+        <title>Mavi Kuş</title>
+        <author>Mustafa Kutlu</author>
+        <publisher>Dergah Yayınları</publisher>
+        <isbn>9759953102</isbn>
+        <date>2017</date>
+        <price>12</price>
+        <language> Türkçe </language>
+     <url>https://www.kitapyurdu.com/kitap/mavi-kus/48233.html</url>
+    </book>
+    <book>
+        <id>19</id>
+        <title>Olağanüstü Bir Gece </title>
+        <author>Stefan Zweig</author>
+        <publisher>Türkiye İş Bankası Kültür Yayınları</publisher>
+        <isbn>6053326090</isbn>
+        <date>2019</date>
+        <price>5.19</price>
+        <language> Türkçe</language>
+<url>https://www.kitapyurdu.com/kitap/olaganustu-bir-gece/380471.html</url>
+    </book>
+    <book>
+        <id>20</id>
+        <title>Hata Neredeydi?
+Doğu’nun 300 Yıldır Cevabını Aradığı Soru</title>
+        <author>Bernard Lewis</author>
+        <publisher>Kronik Kitap</publisher>
+        <isbn> 6057635488</isbn>
+        <date>2020</date>
+        <price>17.71</price>
+        <language> Türkçe </language>
+     https://www.kitapyurdu.com/kitap/hata-neredeydi-amp-dogunun-300-yildir-cevabini-aradigi-soru/533757.html</url>
+    </book>
+    
+       
+</catalogue>
